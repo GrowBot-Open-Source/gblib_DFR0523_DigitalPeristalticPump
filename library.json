@@ -1,8 +1,8 @@
 {
-"name": "gb_SENSORNAME",
+"name": "gb_DFR0523_DigitalPeristalticPump",
 "frameworks": "Arduino",
 "keywords": "keywords",
-"description": "Use the sensor XXXXX in the GrowBot system.",
+"description": "Use the sensor DFR0523 DigitalPeristalticPump in the GrowBot system.",
 "authors":
 [
     {
